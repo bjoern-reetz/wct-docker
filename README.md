@@ -1,5 +1,6 @@
 # wct-docker
-Dockerized version of [NOAA's Weather and Climate Toolki](https://www.ncdc.noaa.gov/wct/index.php).
+Dockerized version of [NOAA's Weather and Climate Toolki](https://www.ncdc.noaa.gov/wct/index.php). But you need to have
+an X client installed on your docker host.
 
 # Usage
 ```shell script
